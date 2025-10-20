@@ -1,0 +1,1 @@
+client.V_CalcRefdef+C4 - FF 25 84A20265        - jmp dword ptr [client.dll+13A284] { ->WINMM.joyGetPosEx }

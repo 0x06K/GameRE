@@ -1,0 +1,9 @@
+CbasePlayer = "crashhandler.dll"+0001B4C8+4+58+20C+7C+4+32C = ????????
+
+Offsets of other entities in CbasePlayer:
+Conrdinate offsets:
+	X = 0008
+	Y = 000C
+	Z = 0010
+
+health offset = 0164
