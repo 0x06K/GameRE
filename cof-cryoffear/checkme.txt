@@ -1,6 +1,6 @@
-CbasePlayer = "crashhandler.dll"+0001B4C8+4+58+20C+7C+4+32C = ????????
+CbasePlayerPTR = "crashhandler.dll"+0001B4C8+4+58+20C+7C+4+32C = ????????
 
-Offsets of other entities in CbasePlayer:
+Offsets of other entities in CbasePlayerPTR:
 Conrdinate offsets:
 	X = 0008
 	Y = 000C
