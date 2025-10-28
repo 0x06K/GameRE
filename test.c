@@ -174,6 +174,8 @@ int main(void) {
     printf("Current float at 0x%p = %f\n", (void*)finalAddr, cur);
 
     float newv = 0.0f;
+    printf("Enter health: ");
+    scanf("%f", &newv);
     SIZE_T bw = 0;
     if (!WriteProcessMemory(hProc, (LPVOID)finalAddr, &newv, sizeof(newv), &bw) || bw != sizeof(newv)) {
         printf("WriteProcessMemory(float) failed: %lu\n", GetLastError());
