@@ -6,7 +6,8 @@
     - unlimited bullets
     - unlimited syringes
 
-but since laziness is only my loyal partner i created tool for only health :3
+but since laziness is my only loyal partner i created tool just for health. Hit follow Button and Star the repo for incoming updates. :3
+
 here is the image of the tool:
 ![alt text](image-1.png)
 
