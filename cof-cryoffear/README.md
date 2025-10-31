@@ -1,12 +1,14 @@
 # cof-cryoffear.
 
-- currently only 2 cheats are available:
+- i have discovered these chrats:
     - unlimited health
-    -  return to checkpoint
+    - retrun to checkpoint
+    - unlimited bullets
+    - unlimited syringes
+but since laziness is only my loyal partner i created tool for only health :3
+here is the image of the tool:
+![alt text](image-1.png)
 
-- i will soon create the script to patch the game.
-
-- i have no contribution in these cheats because one of classmates found the main address needed i just located the health offsets which they could not, it was just right below those offsets.
-- test.c contains the health cheat run it under administrator account(run as administrator), i will improve it later.
-
-![alt text](image.png)
+You will have to find the Process ID of your game process before using the tool. Open cmd and type `tasklist` you will see your game process, here `4168` is PID of `cof.exe`.
+![alt text](image-3.png)
+![alt text](image-2.png)
