@@ -1,10 +1,11 @@
 # cof-cryoffear.
 
-- i have discovered these chrats:
+- i have discovered these cheats:
     - unlimited health
     - retrun to checkpoint
     - unlimited bullets
     - unlimited syringes
+
 but since laziness is only my loyal partner i created tool for only health :3
 here is the image of the tool:
 ![alt text](image-1.png)
